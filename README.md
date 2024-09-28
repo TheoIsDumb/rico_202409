@@ -18,3 +18,7 @@
 
 - scripts: fetch.sh, `cat prayer.txt`
 - scripts are displayed as widgets using a widget named [Command Output](https://github.com/Zren/plasma-applet-commandoutput)
+
+## wall
+
+in `wall/` directory.
